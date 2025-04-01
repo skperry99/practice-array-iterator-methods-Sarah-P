@@ -29,3 +29,18 @@ dishes. Try to add 5 or 6 elements.
 2. Use find() to locate the first food with more than 4 letters.
 3. Use findIndex( ) to find the index of that fruit.
 */
+
+let favCities = ["Seattle","Toronto","Tokyo","London","Rome"];
+
+
+let numbers = [1,2,3,4,5];
+let squares = ;
+console.log(squares);
+
+
+let scores = [85,42,90,75,30,100];
+let highScores = ;
+console.log(highScores);
+
+let favoriteFood = ["spaghetti","ice cream","chicken tikka masala","pizza","chocolate cake","popcorn"];
+
